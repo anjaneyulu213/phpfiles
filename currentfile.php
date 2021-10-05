@@ -1,0 +1,3 @@
+<?php
+echo $CURRENT_PAGE=$_SERVER["SCRIPT_FILENAME"];
+?>
